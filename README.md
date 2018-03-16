@@ -1,5 +1,5 @@
 # MOC-js
-Everything related to the courses given to the MOC 3A about nodeJS.
+Everything related to the courses given to the MOC 3A about nodeJS
 
 ### Plan
 1) Base de JS
@@ -8,20 +8,20 @@ Everything related to the courses given to the MOC 3A about nodeJS.
   - fonctions, => (),  
   - who is this?,  
   - callbacks, promesses,  
-  
+
 2) Node JS
 --------------------
   - http server,  
   - get, post, ...  
   - body-parser, json,  
   - routing,  
-  
+
 3) Express JS
 --------------------
   - middlewares,  
   - orm/odm,  
   - REST,  
-  
+
 4) Deploiment continu
 --------------------
   -> heroku + ???
@@ -32,7 +32,7 @@ Everything related to the courses given to the MOC 3A about nodeJS.
 Exercice
 ---------------------
 Votre API doit maintenant gerer des trajets `Trip`.  
- 
+
   - Un utilisateur peut definir un trajet allant d'un point de depart `start` a une destination `end`.
   - Pour definir un trajet, un utilisateur doit selectionner une voiture `Car` qui lui appartient, le point de depart et le point de destination.
   - Une fois defini, un trajet aura le `status a 0`.
